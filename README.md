@@ -1,4 +1,4 @@
-# my_tic_tac_toe_flutter - Тестовое задание в Flutter SDK 
+Тестовое задание в Flutter SDK 
 
 Текст задания:
 В репозитории https://github.com/Xfox1/tic-tac-toe игра в "крестики-нолики" реализована в браузере.
